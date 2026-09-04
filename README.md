@@ -31,15 +31,6 @@ I'm a passionate web developer and student who loves building clean, interactive
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vraj07-11&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e" alt="Vraj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraj07-11&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -63,6 +54,4 @@ I'm a passionate web developer and student who loves building clean, interactive
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
