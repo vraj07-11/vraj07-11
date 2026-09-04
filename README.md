@@ -46,12 +46,9 @@ I'm a passionate web developer and student who loves building clean, interactive
   <a href="https://x.com/0711Vraj" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-vraj0711-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: vraj0711" />
+  &nbsp; <img src="https://img.shields.io/badge/Discord-vraj0711-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: vraj0711" />
   <a href="https://www.reddit.com/u/vraj_gajera_0711" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-</p>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
