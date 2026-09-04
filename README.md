@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vraj Gajera
+# 19, Aspiring Frontend Engineer | React.js • JavaScript • Tailwind CSS | Focused on building web applications
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vrajgajera&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -41,7 +41,7 @@ I'm a passionate web developer and student who loves building clean, interactive
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/vrajgajera" target="_blank">
+  <a href="https://github.com/vraj07-11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
