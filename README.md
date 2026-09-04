@@ -52,3 +52,8 @@ I'm a passionate web developer and student who loves building clean, interactive
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
