@@ -55,5 +55,5 @@ I'm a passionate web developer and student who loves building clean, interactive
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote= “If you win, you live. If you lose, you die. If you don’t fight, you can’t win.” &author=—Eren Yaeger" alt="Custom Anime Quote" />
 </p>
